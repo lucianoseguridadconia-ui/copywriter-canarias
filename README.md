@@ -60,7 +60,7 @@ Este sitio está desplegado en [Vercel](https://vercel.com) y se actualiza autom
 ## 📬 Contacto
 
 Luciano Francis Amaya Gutierrez  
-📧 servance1970@gmail.com  
+📧 lucianoseguridadconia@gmail.com
 📞 640 134 161  
 📍 Icod de los Vinos, Tenerife, España  
 🔗 [LinkedIn](https://www.linkedin.com/in/luciano-fco-amaya-gut-1538392b4)
