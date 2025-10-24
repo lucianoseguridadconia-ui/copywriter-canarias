@@ -2,21 +2,38 @@
 
 Este sitio web presenta el perfil profesional de **Luciano Francis Amaya Gutierrez**, redactor ético y creativo con formación técnica en comunicación digital, sostenibilidad, ciberseguridad y gestión administrativa. Está diseñado como una carta de presentación interactiva para empresas, instituciones y proyectos que valoran la escritura estratégica, la accesibilidad y el impacto local en Canarias.
 
-## 🎯 Objetivo del proyecto
+## 🎯 Objetivo SMART
 
-Mostrar de forma clara y profesional:
-- Las ofertas de empleo actuales en Canarias para copywriters y redactores creativos
-- Las competencias técnicas y certificaciones de Luciano
-- Un análisis DAFO realista y estratégico
-- La capacidad de adaptación a entornos digitales, éticos y colaborativos
+**Publicar y posicionar el sitio web _copywriter-canarias_ como plataforma profesional para captar al menos 3 colaboraciones remuneradas en Tenerife antes del 15 de enero de 2026**, ofreciendo servicios de redacción ética, accesibilidad digital y comunicación técnica para negocios locales.
 
-## 🧰 Tecnologías utilizadas
+| SMART | Definición |
+|-------|------------|
+| Específico | Usar el sitio web como carta de presentación para ofrecer servicios de copywriting ético, accesibilidad web y documentación técnica |
+| Medible | Captar al menos 3 colaboraciones remuneradas en Tenerife |
+| Alcanzable | Basado en formación técnica, experiencia en documentación y red local; apoyado por web, CV y LinkedIn |
+| Relevante | Refuerza la transición profesional hacia consultoría ética y comunicación digital con impacto local |
+| Temporal | Alcanzar el objetivo antes del 15 de enero de 2026, con seguimiento semanal de contactos y propuestas |
 
-- HTML5
-- CSS3
-- JavaScript (mínimo)
-- Git + GitHub
-- Vercel (despliegue automático)
+## 🗺️ Plan de Acción
+
+### 1. Optimización del sitio web
+- Incluir formación técnica y certificaciones oficiales
+- Añadir análisis DAFO realista y profesional
+- Incorporar sección de contacto con correo directo y LinkedIn
+- Añadir sección de servicios: redacción ética, accesibilidad web, documentación técnica
+- Incluir enlaces de verificación a diplomas oficiales
+
+### 2. Difusión estratégica
+- Publicar la web en LinkedIn con entrada explicativa
+- Enviar propuestas personalizadas a 5 negocios locales
+- Compartir en grupos de Facebook y foros profesionales de Tenerife
+- Añadir la web en CV y perfiles de empleo (InfoJobs, beBee, Jooble, SCE)
+
+### 3. Seguimiento y mejora
+- Instalar Vercel Analytics para medir visitas y origen de tráfico
+- Registrar cada contacto recibido y respuesta obtenida
+- Ajustar contenido según el feedback
+- Documentar el proceso en el blog o sección “Proyectos y aprendizajes”
 
 ## 📚 Formación destacada
 
@@ -60,7 +77,7 @@ Este sitio está desplegado en [Vercel](https://vercel.com) y se actualiza autom
 ## 📬 Contacto
 
 Luciano Francis Amaya Gutierrez  
-📧 lucianoseguridadconia@gmail.com
+📧 servance1970@gmail.com  
 📞 640 134 161  
 📍 Icod de los Vinos, Tenerife, España  
 🔗 [LinkedIn](https://www.linkedin.com/in/luciano-fco-amaya-gut-1538392b4)
